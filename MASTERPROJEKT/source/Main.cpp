@@ -9,6 +9,7 @@ int main()
     cv::Mat image = cv::imread( filename );
 
     cv::imshow( "Test Window", image );
+	cv::imshow("Test Window", image);
     cv::waitKey();
 
 	return EXIT_SUCCESS;
