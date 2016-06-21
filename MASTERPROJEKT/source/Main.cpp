@@ -5,7 +5,7 @@
 int main()
 {
     std::string filename = "C:/Users/Laura/Desktop/Download.jpg";
-
+	// test test Git
     cv::Mat image = cv::imread( filename );
 
     cv::imshow( "Test Window", image );
