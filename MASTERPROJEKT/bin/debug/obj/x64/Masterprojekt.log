@@ -3,4 +3,5 @@
           1 Datei(en) kopiert.
 cl : Befehlszeile warning D9007: "/Gm" erfordert "/Zi oder /ZI"; Option wird ignoriert.
   Main.cpp
-  Masterprojekt.vcxproj -> C:\Users\Laura\Documents\Master\Masterprojekt\MASTERPROJEKT\project\vs2010\..\..\bin\debug\Masterprojekt.exe
+..\..\source\Main.cpp(88): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  Masterprojekt.vcxproj -> F:\Master\Masterprojekt\Git_Workspace\AR2_Composer_Tracking\MASTERPROJEKT\project\vs2010\..\..\bin\debug\Masterprojekt.exe
