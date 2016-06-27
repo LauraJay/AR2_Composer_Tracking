@@ -97,12 +97,6 @@ float getOrientation(cv::RotatedRect rect, cv::Mat rgbImage) {
 			cornerAngle = i*90.f;
 			break;
 		}
-	}
-	rect.size = tempSize;
-	return cornerAngle + std::abs(rect.angle);
-
-}
-
 int main()
 {
 	std::string filename1 = "C:/Users/Vera/Dropbox/MP/Testaufnahmen/TestBild_03.jpg";
