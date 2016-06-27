@@ -1,3 +1,0 @@
-### Tracking
-
-DAS IST DAS TOLLE MASTERPROJEKT
